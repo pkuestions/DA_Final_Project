@@ -25,4 +25,6 @@ Capstone Project for Ironhack Data Analysis Bootcamp
 	- data cleaning / processing
 	- data analysis
 - Stage 3
-	- visualising data in interactive map
+	- visualising data in plots and interactive map(s)
+- Stage 4
+	- set up presentation
