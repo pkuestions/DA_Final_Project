@@ -5,7 +5,7 @@ Capstone Project for Ironhack Data Analysis Bootcamp
 - Paul Kollhof
 
 ## Goal of the project:
-- create interactive map of Berlin displaying dataof various traffic accidents
+- create interactive map(s) of Berlin (whole as well as parts thereof) displaying variety of traffic accidents data
 
 ## Brief description of used data / libraries:
 - datasets: 
