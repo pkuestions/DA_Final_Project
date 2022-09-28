@@ -11,14 +11,14 @@ Capstone Project for Ironhack Data Analysis Bootcamp
 - datasets: 
 	- Berlin traffic accidents data for each year from 2018-2021
 	- annual datasets have ~11-13K observations (rows) & ~24 features (columns)
-- technologies:
+- libraries:
 	- geopandas (handling geolocation data in pandas-environment)
 	- folium (leafletjs-wrapper for building interactive maps based on openstreetmap api)
 
 ## High-level Planning of the project:
 - Stage 1
 	- EDA of traffic accidents data
-	- explore functionalities of folium
+	- explore functionalities of geopandas and folium
 		- create first mock-maps
 		- implement markers, overlays
 - Stage 2
